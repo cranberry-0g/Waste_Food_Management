@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.start{
+    background-color: rgba(157, 216, 160, 0.312);
+    height: 250px;
+    width: auto;
+    text-align: center;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 100%;
+    position: relative;
+    box-shadow: 20px 20px 20px;
+    
+
+}
+
+.accordion{
+    background-color: antiquewhite !important;
+}
